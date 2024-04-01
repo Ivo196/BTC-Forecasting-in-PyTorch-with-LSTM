@@ -1,0 +1,1 @@
+- You can download the dataset from https://finance.yahoo.com/quote/BTC-USD/history?period1=1577836800&period2=1711929600&interval=1d&filter=history&frequency=1d&includeAdjustedClose=true
